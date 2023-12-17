@@ -2,7 +2,7 @@
 
 
 # xorg
-sudo apt install -y xorg xserver-xorg xbacklight xbindkeys xvkbd xinput noto-fonts mesa picom 
+sudo apt install -y xorg xinit xserver-xorg xbacklight xbindkeys xvkbd xinput noto-fonts mesa picom
 
 # User directories
 xdg-user-dirs-update
