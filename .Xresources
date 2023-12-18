@@ -93,3 +93,19 @@ XTerm*color14 : #9aedfe
 ! ! white
 XTerm*color7  : #f1f1f0
 XTerm*color15 : #eff0eb
+
+! Background colors
+! #Black/Dark
+! #333300
+! #003300
+! #000000
+
+! #Green
+! #336600
+! #669900
+! #336633
+! #669933
+
+! #Brown
+! #666600
+! #999933
