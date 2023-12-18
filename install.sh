@@ -14,4 +14,4 @@ sudo apt install -y pipewire-audio pipewire-alsa pavucontrol playerctl
 sudo apt install -y awesome awesome-extra awesome-doc network-manager rofi micro
 
 # Apps
-sudo apt install -y firefox-esr gvfs thunar thunar-archive-plugin thunar-volman unzip mpv htop synaptic 
+sudo apt install -y firefox-esr gvfs thunar thunar-archive-plugin thunar-volman unzip mpv htop synaptic sxiv
