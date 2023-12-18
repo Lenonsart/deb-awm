@@ -11,7 +11,7 @@ xdg-user-dirs-update
 sudo apt install -y pipewire-audio pipewire-alsa pavucontrol playerctl
 
 # Awesome
-sudo apt install -y awesome awesome-extra awesome-doc network-manager rofi micro
+sudo apt install -y awesome awesome-extra awesome-doc network-manager rofi micro xterm
 
 # Apps
 sudo apt install -y firefox-esr gvfs thunar thunar-archive-plugin thunar-volman unzip mpv htop synaptic sxiv
