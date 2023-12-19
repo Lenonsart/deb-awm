@@ -1,6 +1,6 @@
 # deb-awm
 
-Font Iosevka       ~/.fonts
+Font Iosevka Term  ~/.fonts
 https://github.com/be5invis/Iosevka
 
 GTK theme Nordic   ~/.themes
