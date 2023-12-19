@@ -8,7 +8,7 @@ sudo apt install -y xorg xinit xserver-xorg xbacklight xbindkeys xvkbd xinput pi
 xdg-user-dirs-update
 
 # audio
-sudo apt install -y pipewire-audio pipewire-alsa pavucontrol playerctl
+sudo apt install -y pipewire-audio pipewire-alsa pavucontrol playerctl alsa-utils
 
 # Awesome
 sudo apt install -y awesome awesome-extra awesome-doc network-manager rofi micro xterm
